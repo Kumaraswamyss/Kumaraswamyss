@@ -1,9 +1,13 @@
 <h1 align="center">Hey Everyone 👋, I'm Kumaraswamy S S</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/kumaraswamyss/kumaraswamyss/main/Kumaraswamy S S.png"> </div>
-<h3 align="center">A passionate DevOps/SRE Engineer from Bengaluru</h3>
+<h3 align="center">A passionate DevOps/SRE Engineer from Bengaluru</h2>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaraswamyss&label=Profile%20views&color=0e75b6&style=flat" alt="kumaraswamyss" /> </p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kumaraswamyss&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+</div>
 
 - 🔭 I’m currently working on [Python Automation](https://github.com/Kumaraswamyss)
 
@@ -14,6 +18,23 @@
 - 💬 Ask me about **DevOps Tools**
 
 - 📫 How to reach me **maykmr17@gmail.com**
+
+## 👨‍💻 About Me
+
+<p>
+  <img src="https://img.shields.io/badge/Name-Kumaraswamy%20S S-1f6feb?style=for-the-badge" alt="Name: Kumaraswamy S S" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 7+ Years" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru-ff9933?style=for-the-badge" alt="Location: Bengaluru" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevOps and SRE Engineer" />
+  
+</p>
+
+I am a passionate **DevOps and SRE Engineer from Bengaluru** with over **7 year of experience** in cloud infrastructure, automation, CI/CD, DevSecOps and modern software delivery.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +51,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaraswamyss&" alt="kumaraswamyss" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kumaraswamyss&limit=3&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kumaraswamyss&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
 ![Snake animation](https://raw.githubusercontent.com/kumaraswamyss/Kumaraswamyss/output/github-contribution-grid-snake.svg)
