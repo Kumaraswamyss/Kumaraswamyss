@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kumaraswamy S S</h1>
+<h1 align="center">Hey Everyone 👋, I'm Kumaraswamy S S</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/kumaraswamyss/kumaraswamyss/main/Kumaraswamy S S.png"> </div>
 <h3 align="center">A passionate DevOps/SRE Engineer from Bengaluru</h3>
+<img align="right" alt="Coding" width="400" src="https://githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaraswamyss&label=Profile%20views&color=0e75b6&style=flat" alt="kumaraswamyss" /> </p>
 
@@ -26,3 +28,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumaraswamyss&show_icons=true&locale=en" alt="kumaraswamyss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaraswamyss&" alt="kumaraswamyss" /></p>
+
+### 🔝 Top Contributed Repo
+![_](https://github-contributor-stats.vercel.app/api?username=kumaraswamyss&limit=3&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.comkumaraswamyss/kumaraswamy/output/github-contributio-grid-snake.svg)
