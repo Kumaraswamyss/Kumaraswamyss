@@ -33,4 +33,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=kumaraswamyss&limit=3&theme=flat&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/kumaraswamyss/kumaraswamy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/kumaraswamyss/Kumaraswamyss/output/github-contribution-grid-snake.svg)
