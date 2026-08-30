@@ -28,7 +28,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevOps and SRE Engineer" />
+  <img src="https://img.shields.io/badge/Role-DevOps%20%26%20SRE%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevOps and SRE Engineer" />
   
 </p>
 
