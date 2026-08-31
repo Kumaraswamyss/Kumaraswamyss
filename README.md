@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Kumaraswamy S S</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/kumaraswamyss/kumaraswamyss/main/Kumaraswamy S S.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/kumaraswamyss/kumaraswamyss/main/Gemini_Generated_Image_xycjwzxycjwzxycj.png"> </div>
 <h3 align="center">A passionate DevOps/SRE Engineer from Bengaluru</h2>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
