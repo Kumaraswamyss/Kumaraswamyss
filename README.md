@@ -5,7 +5,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=kumaraswamyss&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+![](https://komarev.com/ghpvc/?username=kumaraswamyss&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
